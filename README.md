@@ -1,2 +1,0 @@
-# pythonskill
-this is sushils
